@@ -1,0 +1,28 @@
+_repo: The-Twelve-Months-of-the-Year-with-a-Picture-for-each-Month.--13-Adapted-to-Northern-Latitude__32476
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_issued: '2010-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32476'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Months -- Juvenile literature'
+- !lcsh 'Christian life -- Juvenile literature'
+- !lcc 'PZ'
+- !lcsh 'Seasons -- Juvenile literature'
+title: "The Twelve Months of the Year, with a Picture for each Month.\r\nAdapted to\
+  \ Northern Latitudes"
+url: http://www.gutenberg.org/ebooks/32476
