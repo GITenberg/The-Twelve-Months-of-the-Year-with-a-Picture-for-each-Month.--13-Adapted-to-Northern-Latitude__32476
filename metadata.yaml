@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/browse/authors/a#a216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32476#The-Twelve-Months-of-the-Year-with-a-Picture-for-each-Month.--13-Adapted-to-Northern-Latitude_
 gutenberg_issued: '2010-05-21'
 gutenberg_type: Text
 identifiers:
